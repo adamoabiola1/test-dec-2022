@@ -1,0 +1,1 @@
+A terraform file to deploy a springboot function on aws lambda.
